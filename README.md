@@ -1,5 +1,5 @@
 # 🐍 Piscine Python for Data Science 
-- 42 School
+- École 42 Paris
 
 ## Présentation
 
