@@ -1,4 +1,4 @@
-# 🐍 Piscine Python - 42 School
+# 🐍 Piscine Python for Data Science- 42 School
 
 ## Présentation
 
