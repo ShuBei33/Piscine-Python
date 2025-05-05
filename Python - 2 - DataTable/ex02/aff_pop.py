@@ -38,7 +38,6 @@ def main():
 
     plt.plot(years, pop_bel, label='Belgium', color='#6CA6CD')
     plt.plot(years, pop_fr, label='France', color='#32CD32')
-    plt.suptitle("")
     plt.title("Population Projections")
     plt.xlabel('Year')
     plt.ylabel('Population')
