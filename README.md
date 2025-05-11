@@ -22,21 +22,35 @@ Il s'agit d'une série d'exercices progressifs visant à maîtriser les bases du
 ---
 
 ### 📘 Day 00
-
-- `sys.argv` pour les arguments en ligne de commande
-- Types de base : `None`, `bool`, `int`, `float`, `str`
-- Structures conditionnelles
-- `assert` pour les vérifications
-- `input()` pour les prompts
-- Compteur de caractères et classification (maj, min, chiffre, etc.)
-- `string` module
-- `lambda` expressions
-- List comprehensions
-- Reproduction de fonctions built-in (`filter`)
+- `sys.argv`, `input()` pour les interactions
+- Types fondamentaux : `None`, `bool`, `int`, `float`, `str`
+- Structures conditionnelles (`if`, `elif`, `else`)
+- `assert`, vérification de types, gestion d’erreurs
+- `lambda`, list comprehensions
 - Traitement conditionnel de chaînes
-- Dictionnaires de correspondance (ex: Morse)
-- Manipulation de chaînes
-- Gestion stricte des types et du nombre d’arguments
+- Dictionnaires et encodages (ex: Morse)
+- Reproduction de comportements de `filter()`
+
+### 📗 Day 01
+- Manipulation de matrices d’images `.npy`
+- Affichage avec `matplotlib.pyplot`
+- Création de visualisations simples (grayscale, zoom)
+- Lecture, slicing et transformation manuelle d’images
+- Positionnement des titres et suppression des axes
+
+### 📙 Day 02
+- Manipulation de DataFrames avec `pandas`
+- Sélection de données (`iloc`, `loc`, slicing`)
+- Nettoyage et transformation de colonnes
+- Visualisation de données tabulaires avec `seaborn` et `matplotlib`
+- Analyse descriptive de données (moyenne, médiane, etc.)
+
+### 📕 Day 03
+- Programmation orientée objet (POO)
+- Déclaration de classes, héritage, encapsulation
+- Méthodes spéciales : `__init__`, `__str__`, `__repr__`
+- Méthodes statiques, surcharge, polymorphisme
+- Manipulation d’attributs, appels de méthode sans instanciation
 
 ---
 
@@ -46,5 +60,5 @@ _(Les jours suivants seront ajoutés au fur et à mesure)_
 
 ## Auteur
 
-Développé par **Enora**  
+Développé par **Enora S.**  
 42 Paris  
