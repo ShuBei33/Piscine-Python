@@ -52,9 +52,13 @@ Il s'agit d'une série d'exercices progressifs visant à maîtriser les bases du
 - Méthodes statiques, surcharge, polymorphisme
 - Manipulation d’attributs, appels de méthode sans instanciation
 
----
+### 📒 Day 04
 
-_(Les jours suivants seront ajoutés au fur et à mesure)_
+- Utilisation de `@dataclass`, `field(init=False)` et `__post_init__`
+- Génération automatique d’attributs non initialisables (`login`, `id`)
+- Création de décorateurs simples et paramétrés (`@callLimit(n)`)
+- Gestion d’état entre appels avec des closures
+- Fonctions retournant des objets appelables (inner function mémorisant une variable)
 
 ---
 
